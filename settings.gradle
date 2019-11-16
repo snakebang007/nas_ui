@@ -1,0 +1,2 @@
+include ':app', ':app_file', ':app_settings', ':lib_common', ':fun_example'
+rootProject.name='NasLauncher'
